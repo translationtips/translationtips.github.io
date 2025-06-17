@@ -35,13 +35,6 @@ In a connected world, delivering content in multiple languages is no longer opti
 
 ---
 
-## 🔗 Useful Resources
-
-- [Introduction to CAT Tools](https://en.wikipedia.org/wiki/Computer-assisted_translation)
-- [Multilingual Design Best Practices](https://www.w3.org/International/)
-
----
-
 ## 📣 Learn More
 
 For more insights and enterprise-level translation solutions, visit [this website](https://www.pairaphrase.com) for additional resources and secure tools designed to simplify multilingual collaboration.
